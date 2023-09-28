@@ -14,7 +14,7 @@ This Python script is designed to benchmark the performance of various hashing a
   - SHA3-256
   - SHA3-512
 
-- **String Lengths**: It tests hashing performance across various string lengths, including 50, 100, 200, 500, 1000, and 5000 characters.
+- **String Lengths**: It tests hashing performance across various string lengths, including 10, 25, 50, 75, 100, 150, 200, 500, 1000 and 5000 characters.
 
 - **Parallel Processing**: The script leverages the `multiprocessing` module to hash random strings concurrently, making efficient use of available CPU cores.
 
