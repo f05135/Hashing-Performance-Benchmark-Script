@@ -54,12 +54,8 @@ This Python script is designed to benchmark the performance of various hashing a
 
 1. Ensure you have Python installed.
 
-2. Install required libraries using pip:
+2. Install required libraries using pip: `pip install matplotlib mpld3`
 
-pip install matplotlib mpld3
-
-3. Execute the script:
-
-python script_name.py
+3. Execute the script: `python script_name.py`
 
 4. The script will generate hash times and visualizations for various hashing algorithms and string lengths, saving results in a timestamped folder for analysis.
