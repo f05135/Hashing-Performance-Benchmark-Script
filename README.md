@@ -24,6 +24,7 @@ This Python script is designed to benchmark the performance of various hashing a
   - A PDF of the bar chart.
   - A JSON file containing the average hashing times.
   - An interactive HTML plot for further exploration.
+  - ![](https://raw.githubusercontent.com/f05135/Hashing-Performance-Benchmark-Script/main/Media%20Assets/hashing_results_folder_video.mp4?token=GHSAT0AAAAAACCB7GOUG5N6WSQPSYBIGRNYZIVKRRA)
 
 ## Details
 
