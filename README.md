@@ -46,7 +46,7 @@ This Python script is designed to benchmark the performance of various hashing a
    - Initializes a dictionary to store the benchmark results.
    - Creates a timestamped folder to store results.
    - Iterates over the specified hashing algorithms, using multiprocessing for efficient hashing.
-   - Pauses for 2 seconds between algorithm changes.
+   - Pauses for 1 second between algorithm changes.
    - Generates a bar chart to visualize the average hashing times.
    - Converts the Matplotlib plot to an interactive HTML plot using `mpld3`.
    - Saves the results as a PDF, a JSON file, and an HTML file in the results folder.
